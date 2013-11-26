@@ -9,8 +9,8 @@ tagline: Making the losses less
 
 #####Contact:
 
-	* richard@losslesslabels.com.
-	* alex@losslesslabels.com
+* richard@losslesslabels.com.
+* alex@losslesslabels.com
 
 ##What are you?
 ----
