@@ -5,4 +5,6 @@ tagline: Making the losses less
 ---
 {% include JB/setup %}
 
-<i>Content goes here.</i>
+<p><i>We are up and coming. Or coming up. One of them.</i></p>
+
+<p>Contact: richard@losslesslabels.com.</p>
