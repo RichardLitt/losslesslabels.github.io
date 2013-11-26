@@ -7,7 +7,8 @@ tagline: Making the losses less
 
 <p><i>We are up and coming. Or coming up. One of them.</i></p>
 
-<p>Contact: richard@losslesslabels.com.</p>
+<p>Contact: richard@losslesslabels.com.
+			alex@losslesslabels.com</p>
 
 <hr />
 
@@ -17,4 +18,4 @@ tagline: Making the losses less
 
 <p>Audiophiles who care are a minority. But the potential for more people to care about audio quality is limited only by population size. Wouldn't it be great if more people knew about lossless audio formats? Wouldn't it be awesome if this sea-change started with the labels offering lossless versions for free to those who've bought digital mp3s or LPs?</p>
 
-<p>I think so. A way to get this going? <b>Build a website shaming and praising labels that offer lossless.</b></p>
+<p>I think so. A way to get this going? <b>Build a website shaming and praising labels that don't/do offer lossless.</b></p>
