@@ -7,7 +7,7 @@ tagline: Making the losses less
 
 <p><i>We are up and coming. Or coming up. One of them.</i></p>
 
-<p>Contact: richard@losslesslabels.com.
+<p>Contact: richard@losslesslabels.com.<br/>
 			alex@losslesslabels.com</p>
 
 <hr />
