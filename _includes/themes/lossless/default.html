@@ -19,7 +19,7 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
     
     <!-- Custom styles -->
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/css/lossless.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -43,7 +43,7 @@
   </head>
 
   <body>
-    <div id="wrap">
+    
       <nav class="navbar navbar-default" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -72,20 +72,25 @@
         </div><!-- /.navbar-collapse -->
       </nav>
 
-      <div class="container">
+<!--     <div id="wrap">
+ -->
+      <div class="paralax-header under1">
+      </div>
+
+      <div class="container above1" id="content-wrap">
         {{ content }}
       </div>
 
-    </div>
+<!--     </div> -->
 
-    <div id="footer">
+<!--     <div id="footer">
       <div class="container">
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
       </div>
-    </div id="footer">
+    </div id="footer"> -->
 
     {% include JB/analytics %}
 
@@ -94,5 +99,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/paralax.js"></script>
   </body>
 </html>
