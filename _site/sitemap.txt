@@ -2,8 +2,8 @@
 http://losslesslabels.com/archive.html
 http://losslesslabels.com/atom.xml
 http://losslesslabels.com/categories.html
-http://losslesslabels.com/index.html
 http://losslesslabels.com/labels/index.html
+http://losslesslabels.com/index.html
 http://losslesslabels.com/pages.html
 http://losslesslabels.com/rss.xml
 http://losslesslabels.com/sitemap.txt
